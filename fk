@@ -1,7 +1,7 @@
 {
     "Ads": {
         "AdMob": {
-            "activated": false,
+            "activated": true,
             "banner": "ca-app-pub-8120973193756033/2770666206",
             "native": "ca-app-pub-8120973193756033/2579094519",
             "interstitial": "ca-app-pub-8120973193756033/4341099872"
